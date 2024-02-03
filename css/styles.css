@@ -1,0 +1,80 @@
+*{
+    font-family: tahoma;
+}
+.header{
+    display: flex;
+    background-color:cornflowerblue ;
+    padding: 10px;
+    justify-content: center;
+    font-size: 3em;
+    
+}
+
+.header-title{
+    text-decoration: none;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+.header:hover{
+    background-color:cadetblue ;
+}
+
+
+/* Artikel  */
+.judul{
+   display: flex;
+   background-color: coral;
+   padding: 10px;
+   margin: 5px;
+   justify-content: center;
+   color: cornsilk; 
+   font-weight: bold;
+}
+
+.konten{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+
+.penulis{
+    color: brown;
+    font-weight:bold;
+}
+
+/*Halama utama berita*/
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.preview-berita{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.preview-judul{
+    font-weight: bold;
+}
+.preview-credit{
+    border-bottom: 1px solid;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.preview-berita:hover{
+    background-color: beige;
+}
