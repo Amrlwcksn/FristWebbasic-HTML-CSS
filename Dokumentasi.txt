@@ -1,0 +1,26 @@
+Dokumentasi 
+    Web sederhana dengan .html, dan stlye menggunakan .css.
+Biasakan menggunakan <div></div> untuk membuat sebuah box/konten,
+didalamnya menggunakan beberapa tag basic html seperti <span>.
+
+  Untuk Css,didalamnya menggunakan universal selector untuk menandai semua font
+menggunakan font tahoma, dan juga menggunakan class selector untuk memanggil satu
+persatu item yang akan di style oleh css.
+  Style yang digunakan:
+1.display 
+2.background-color
+3.padding
+4.margin
+5.font-size
+6.font-weight
+7.font-family
+8.text-decoration
+9.justify-content
+10.max-width
+11.margin-left
+12.margin-right
+13.text-align
+14.flex-warp
+dan mengunakan :hover agar user dapat berinteraksi dengan antarmuka web
+
+
